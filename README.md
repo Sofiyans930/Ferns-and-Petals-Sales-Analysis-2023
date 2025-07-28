@@ -59,9 +59,7 @@ This is an Excel-based dashboard project for Ferns N Petals (FNP), designed to p
 ## 👨‍💻 Author
 
 **Sofiyan Shaikh**  
-📧 Email: [Add your email if you want]  
-📌 [LinkedIn / Portfolio link - Optional]
-
+📧 Email: Sofiyans930@gmail.com 
 ---
 
 ## 📜 License
